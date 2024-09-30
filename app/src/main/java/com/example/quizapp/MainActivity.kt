@@ -42,5 +42,4 @@ fun Navigation(){
             QuizScreen(viewModel = QuestionViewModel())
         }
     }
-
 }

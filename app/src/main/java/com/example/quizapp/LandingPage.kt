@@ -102,4 +102,6 @@ fun LandingPage(userName: String, navigationToQuizScreen: () -> Unit) {
         }
     }
 }
+fun hello(){
 
+}
